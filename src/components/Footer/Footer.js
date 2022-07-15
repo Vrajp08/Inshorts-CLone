@@ -8,7 +8,7 @@ const Footer = () => {
       <span className="name">
         Inshorts clone made by -{" "}
       
-
+</span>
       <hr style={{ width: "90%" }} />
       <div className="iconContainer">       
         <i class="fa-brands fa-instagram fa-2x"></i>    
